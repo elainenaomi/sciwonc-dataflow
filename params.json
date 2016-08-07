@@ -1,0 +1,6 @@
+{
+  "name": "SciWonC Dataflow Project",
+  "tagline": "",
+  "body": "### SciWonC Dataflow Project\r\n\r\nThis project is part of Scientific Workflows on Clouds (SciWonC) Project, from IME-USP/SP.\r\n\r\n\r\nExamples of sciwonc dataflow module usage\r\n\r\nFor executing theses examples, please, install the sciwonc-dataflow-connector.\r\n\r\nAvailable on: https://github.com/elainenaomi/sciwonc-dataflow-connector\r\n\r\nInput data obtained from: https://github.com/google/cluster-data\r\n\r\nhttps://github.com/elainenaomi/sciwonc-dataflow-examples\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
